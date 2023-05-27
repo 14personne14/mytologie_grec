@@ -3,6 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
 
 body {
 	background-color: #8a8a8a;
@@ -126,6 +127,16 @@ img {
 	height: 250px;
 	object-fit: cover;
 	object-position: top;
+}
+.texte-plus-petit {
+	font-size: 13px;
+	font-family: 'Roboto', sans-serif;
+	text-decoration: italic;
+}
+.source {
+	text-align: right;
+	font-weight: bold;
+	color: white;
 }
 
 @media only screen and (max-width: 1200px) {
