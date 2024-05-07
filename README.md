@@ -2,11 +2,7 @@
 
 Un répertoire des dieux et déesses de la mythologie grecque.
 
-## Author
-
-Created by @personne14 and @angela_lorenegi.
-
-## Copyright @personne14.
+## Copyright @personne14 & @angela_lorenegi.
 
 Tous droits réservés.
 
